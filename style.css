@@ -44,6 +44,10 @@ hr {
     border-width: 4px;
 }
 
+.btn-primary:active {
+    background-color: #ee4b08;
+}
+
 .btn-xl {
     padding: 1rem 2rem;
 }
